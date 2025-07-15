@@ -19,8 +19,18 @@ Other platforms are not yet available:
 
 - [Building Zed for macOS](./docs/src/development/macos.md)
 - [Building Zed for Linux](./docs/src/development/linux.md)
-- [Building Zed for Windows](./docs/src/development/windows.md)
 - [Running Collaboration Locally](./docs/src/development/local-collaboration.md)
+
+- [**Building Zed for Windows**](./docs/src/development/windows.md)
+
+using this page, can you simplify all of this into perhaps a vscode tasks.json keeping in mind im running windows 11 , vscode, and powershell...but thi entire page needs to be simlified and an easier build path must be created.:
+https://zed.dev/docs/development/windows..what d  you mean provide the build steps everything is on this page that is specifically related to the zed build for the windows version.......use the most like to succeed and always Production over dev environments...
+
+https://zed.dev/docs/development/windows
+https://github.com/hannahbellesheart/ide-rust-zed/
+
+
+
 
 ### Contributing
 
